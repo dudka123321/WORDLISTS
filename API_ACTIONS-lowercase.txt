@@ -91,6 +91,8 @@ inquiry
 interpret
 kill
 workspace
+result
+results
 latest
 level
 link
@@ -105,6 +107,8 @@ originate
 upstream
 upstreams
 patch
+snapshot
+snapshots
 pay
 payments-list
 payments_list
