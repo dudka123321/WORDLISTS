@@ -105,6 +105,7 @@ mod
 multiply
 originate
 upstream
+favourite
 upstreams
 patch
 snapshot
